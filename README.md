@@ -39,7 +39,7 @@
   Myself
   ## Testing
   ```
-  Walkthrough URL
+  https://app.screencastify.com/v2/manage/videos/b7tA4muM8MRy7rJawFww
   ```
   ## License
           
